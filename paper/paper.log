@@ -1,0 +1,363 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.10.20)  25 OCT 2023 15:41
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"c:/Users/Eric Viklund/projects/recoating/paper/paper.tex"
+(c:/Users/Eric Viklund/projects/recoating/paper/paper.tex
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-10-10>
+(c:/texlive/2023/texmf-dist/tex/latex/revtex/revtex4-2.cls
+Document Class: revtex4-2 2022/06/05 4.2f (https://journals.aps.org/revtex/ for documentation)
+ Copyright (c) 2019 American Physical Society.
+ mailto:revtex@aps.org
+ Licensed under the LPPL:
+http://www.ctan.org/tex-archive/macros/latex/base/lppl.txt
+ Arthur Ogawa <arthur_ogawa at sbcglobal dot net>
+ Based on work by David Carlisle <david at dcarlisle.demon.co.uk>
+ Version (4.2d--4.2f): Modified by Mark Doyle and Phelype Oleinik
+ .
+ltxutil[2022/06/05 4.2f utilities package (portions licensed from W. E. Baxter web at superscript.com)]
+LaTeX Info: Redefining \@centercr on input line 356.
+Class revtex4-2 Info: Repairing broken LaTeX eqnarray on input line 417.
+\eqncolsep=\skip48
+Class revtex4-2 Info: Repairing hyperref-unfriendly LaTeX definition of \mpfootnote on input line 492.
+Class revtex4-2 Info: Repairing broken LateX \@sect on input line 814.
+\intertabularlinepenalty=\count185
+\@tbpen=\count186
+\@arstrutbox@hline=\box51
+Class revtex4-2 Info: Repairing broken LaTeX \@xbitor on input line 1845.
+Class revtex4-2 Info: Making \typeout \long on input line 2110.
+ltxfront[2022/06/05 4.2f frontmatter package (AO,DPC,MD)]
+\c@affil=\count187
+\c@collab=\count188
+\absbox=\box52
+ltxgrid[2022/06/05 4.2f page grid package (portions licensed from W. E. Baxter web at superscript.com)]
+\c@linecount=\count189
+\output@latex=\toks17
+\box@size@1=\box53
+\box@size@2=\box54
+\@protection@box=\box55
+\@topmark@saved=\toks18
+\footins@saved=\box56
+\footins@recovered=\box57
+\column@recovered=\box58
+\pagesofar=\box59
+\footsofar=\box60
+\pagegrid@col=\count190
+Class revtex4-2 Info: Overriding \@vspace, \@vspacer, \@no@pgbk, \@newline, and \\  on input line 5676.
+\c@part=\count191
+\c@section=\count192
+\c@subsection=\count193
+\c@subsubsection=\count194
+\c@paragraph=\count195
+\c@subparagraph=\count196
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\c@figure=\count197
+\fbox@1=\box61
+\c@table=\count198
+\fbox@2=\box62
+\c@video=\count199
+\fbox@4=\box63
+\@bibdataout=\write3
+\widetext@top=\box64
+\widetext@bot=\box65
+
+Class revtex4-2 Warning: No Society specified, using default society aps.
+
+(c:/texlive/2023/texmf-dist/tex/latex/revtex/aps4-2.rtx
+File: aps4-2 2022/06/05 4.2f (https://journals.aps.org/revtex/ for documentation)
+Class revtex4-2 Info: RevTeX society APS selected on input line 40.
+)
+
+Class revtex4-2 Warning: No journal specified, using default pra.
+
+Class revtex4-2 Info: APS journal PRA selected on input line 7672.
+
+Class revtex4-2 Warning: No type size specified, using default 10.
+
+(c:/texlive/2023/texmf-dist/tex/latex/revtex/aps10pt4-2.rtx
+File: aps10pt4-2 2022/06/05 4.2f (https://journals.aps.org/revtex/ for documentation)
+Class revtex4-2 Info: RevTeX pointsize 10pt selected on input line 39.
+) (c:/texlive/2023/texmf-dist/tex/latex/textcase/textcase.sty
+Package: textcase 2023/07/27 v1.04 Text only upper/lower case changing (DPC)
+Package textcase Info: Defining Legacy names on input line 20.
+) (c:/texlive/2023/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (c:/texlive/2023/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip51
+\bibsep=\skip52
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count266
+)
+Class revtex4-2 Info: Repairing natbib's \BibitemShut on input line 7676.
+ (c:/texlive/2023/texmf-dist/tex/latex/revtex/revsymb4-2.sty
+Package: revsymb4-2 2022/06/05 4.2f (https://journals.aps.org/revtex/ for documentation)
+LaTeX Info: Redefining \REV@mathfrak on input line 128.
+))
+Class revtex4-2 Info: Unrecognized LaTeX tabular. Please update this document class! (Proceeding with fingers crossed.) on input line 3.
+Class revtex4-2 Info: cite was not loaded (OK!) on input line 3.
+Class revtex4-2 Info: mcite was not loaded (OK!) on input line 3.
+Class revtex4-2 Info: multicol was not loaded (OK!) on input line 3.
+ (c:/texlive/2023/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2023-10-10 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count267
+\l__pdf_internal_box=\box66
+) (./paper.aux)
+\openout1 = `paper.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+\openout3 = `paperNotes.bib'.
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 23.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 23.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 23.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 23.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 23.
+
+
+Package natbib Warning: Citation `posen2021advances' on page 1 undefined on input line 35.
+
+c:/Users/Eric Viklund/projects/recoating/paper/paper.tex:39: Undefined control sequence.
+l.39 ...edure, the cavity was heated to 1000 \unit
+                                                  {\degree\celcius} and expo...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Eric Viklund/projects/recoating/paper/paper.tex:39: Undefined control sequence.
+l.39 ...he cavity was heated to 1000 \unit{\degree
+                                                  \celcius} and exposed to S...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Eric Viklund/projects/recoating/paper/paper.tex:39: Undefined control sequence.
+l.39 ...y was heated to 1000 \unit{\degree\celcius
+                                                  } and exposed to Sn vapor ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Eric Viklund/projects/recoating/paper/paper.tex:39: Undefined control sequence.
+l.39 ...lcius} and exposed to Sn vapor for 1 \unit
+                                                  {\hour}. Sn vapor was prov...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Eric Viklund/projects/recoating/paper/paper.tex:39: Undefined control sequence.
+l.39 ... and exposed to Sn vapor for 1 \unit{\hour
+                                                  }. Sn vapor was provided b...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Eric Viklund/projects/recoating/paper/paper.tex:39: Undefined control sequence.
+l.39 ...hour}. Sn vapor was provided by 0.85 \unit
+                                                  {\gram} of Sn heated to 12...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Eric Viklund/projects/recoating/paper/paper.tex:39: Undefined control sequence.
+l.39 ... Sn vapor was provided by 0.85 \unit{\gram
+                                                  } of Sn heated to 1250 \un...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Eric Viklund/projects/recoating/paper/paper.tex:39: Undefined control sequence.
+l.39 ...85 \unit{\gram} of Sn heated to 1250 \unit
+                                                  {\degree\celcius}.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Eric Viklund/projects/recoating/paper/paper.tex:39: Undefined control sequence.
+l.39 ...{\gram} of Sn heated to 1250 \unit{\degree
+                                                  \celcius}.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Eric Viklund/projects/recoating/paper/paper.tex:39: Undefined control sequence.
+l.39 ...of Sn heated to 1250 \unit{\degree\celcius
+                                                  }.
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Eric Viklund/projects/recoating/paper/paper.tex:44: Missing $ inserted.
+<inserted text> 
+                $
+l.44 ...ng field of 24~MV/m and maximum Q of 2x10^
+                                                  10 at 4~K. After the cavit...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/Eric Viklund/projects/recoating/paper/paper.tex:45: Missing $ inserted.
+<inserted text> 
+                $
+l.45 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (198.89627pt too wide) in paragraph at lines 44--45
+\OT1/cmr/m/n/10 max-i-mum Q of 2x10$[]0\OML/cmm/m/it/10 at\OT1/cmr/m/n/10 4 []\OML/cmm/m/it/10 K:Afterthecavitywasdamagedtheperformancewasseverlydegraded:Thecavityonlyreached\OT1/cmr/m/n/10 8 []\OML/cmm/m/it/10 MV=mandaslightdecreaseinqualityfactor:$ 
+ []
+
+c:/Users/Eric Viklund/projects/recoating/paper/paper.tex:48: Undefined control sequence.
+l.48     \includegraphics
+                         [width=1.0\columnwidth]{./figures/TMAP.png}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Eric Viklund/projects/recoating/paper/paper.tex:48: Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.48     \includegraphics[width=1.0\columnwidth]
+                                                {./figures/TMAP.png}%
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/Users/Eric Viklund/projects/recoating/paper/paper.tex:48: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.48     \includegraphics[width=1.0\columnwidth]
+                                                {./figures/TMAP.png}%
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+c:/Users/Eric Viklund/projects/recoating/paper/paper.tex:57: Missing $ inserted.
+<inserted text> 
+                $
+l.57 ...the quality factor also increased to 3x10^
+                                                  10 at 4~K. This indicates ...
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+c:/Users/Eric Viklund/projects/recoating/paper/paper.tex:58: Missing $ inserted.
+<inserted text> 
+                $
+l.58 
+     
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+Overfull \hbox (76.40273pt too wide) in paragraph at lines 57--58
+\OT1/cmr/m/n/10 in-creased to 18 MV/m and the qual-ity fac-tor also in-creased to 3x10$[]0\OML/cmm/m/it/10 at\OT1/cmr/m/n/10 4 []\OML/cmm/m/it/10 K:Thisindicatesthatthequenchcausingdefecthasbeenrepaired:$ 
+ []
+
+c:/Users/Eric Viklund/projects/recoating/paper/paper.tex:66: Undefined control sequence.
+l.66     \includegraphics
+                         [width=1.0\columnwidth]{./figures/VTS.png}%
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+c:/Users/Eric Viklund/projects/recoating/paper/paper.tex:66: Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.66     \includegraphics[width=1.0\columnwidth]
+                                                {./figures/VTS.png}%
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+c:/Users/Eric Viklund/projects/recoating/paper/paper.tex:66: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.66     \includegraphics[width=1.0\columnwidth]
+                                                {./figures/VTS.png}%
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+[1{c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./paper.bbl)
+
+Package natbib Warning: There were undefined citations.
+
+[2] (./paper.aux)
+ ***********
+LaTeX2e <2023-06-01> patch level 1
+L3 programming layer <2023-10-10>
+ ***********
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 2555 strings out of 475954
+ 36719 string characters out of 5789539
+ 1930043 words of memory out of 5000000
+ 24361 multiletter control sequences out of 15000+600000
+ 562681 words of font info for 51 fonts, out of 8000000 for 9000
+ 319 hyphenation exceptions out of 8191
+ 57i,6n,60p,820b,274s stack positions out of 10000i,1000n,20000p,200000b,200000s
+<c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
+Output written on paper.pdf (2 pages, 151634 bytes).
+PDF statistics:
+ 71 PDF objects out of 1000 (max. 8388607)
+ 42 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+
