@@ -29,32 +29,33 @@
 \section{Introduction}
 \label{sec:Introduction}
 
-A higher T\textsubscript{c} makes Nb\textsubscript{3}Sn an attractive material for SRF applications. However, the material properties of Nb\textsubscript{3}Sn make it difficult to work with. The brittleness of the material introduces new challenges to the cavity manufacturing process. Particularly for handling and tuning of the cavity, which can induce stresses on the cavity. Nb\textsubscript{3}Sn cavity performance is known to degrade severly when stresses are applied to the cavity. This degradation is theorized to be caused by cracks in the brittle Nb\textsubscript{3}Sn film. Cavities that suffer from degradation must be stripped and recoated with a new Nb\textsubscript{3}Sn film, which is a time consuming and expensive process.
+For several decades researchers have been working to implement Nb\textsubscript{3}Sn in superconducting radiofrequency (SRF) cavities. Desirable superconducting properties, such as higher superconducting transition temperature (T\textsubscript{c}) and higher superheating field (H\textsubscript{sh})\cite{liarte2017theoretical, catelani2008temperature, lin2012effect, kubo2020superfluid}, make Nb\textsubscript{3}Sn an attractive material for SRF applications. However, the material properties of Nb\textsubscript{3}Sn make it difficult to work with. The brittleness of the material introduces new challenges to the cavity manufacturing process, which must be deposited as a thin film on a bulk cavity substrate.\cite{posen2017nb3sn, pudasaini2019growth, porter2018update} The thin and brittle nature of the film makes handling and tuning of the cavity difficult due to stresses applied to the cavity. Nb\textsubscript{3}Sn cavity performance is known to degrade severly when excessive stresses are applied to the cavity. This degradation is theorized to be caused by cracks in the brittle Nb\textsubscript{3}Sn film. Cavities that suffer from degradation must be stripped and recoated with a new Nb\textsubscript{3}Sn film, which is a time consuming and expensive process.
 
-In this study we will explore a new procedure to heal Nb\textsubscript{3}Sn cavities that have been degraded. This procedure utilizes a short Nb\textsubscript{3}Sn recoating to heal cracks that have formed in the cavity without the need to remove the original film. Using this procedure, we are able to recover a large portion of the performance of a degraded Nb\textsubscript{3}Sn cavity with just a simple procedure.
+In this study we will explore a new procedure to heal Nb\textsubscript{3}Sn cavities that have been degraded. This procedure utilizes a short Nb\textsubscript{3}Sn recoating to heal cracks that have formed in the cavity without the need to remove the original film. Using this procedure, we are able to recover a large portion of the performance of a degraded Nb\textsubscript{3}Sn cavity with just a single Sn coating.
+
 
 \section{Experiment}
 \label{sec:Experiment}
 
-The cavity was coated using high-temperature nucleation step to create a low roughness Nb\textsubscript{3}Sn film. An in-depth analysis of this cavity coating and initial performance was published by Posen et. al.~\cite{posen2021advances}. 
+The cavity was coated using high-temperature nucleation step to create a low roughness Nb\textsubscript{3}Sn film. An in-depth analysis of this cavity coating and initial performance of the cavity was published by Posen et. al.~\cite{posen2021advances}. 
 
-After testing the performance of the cavity, the cavity was damaged during transport leading to a sharp decrease in the performance. We theorize that the degradation was caused by stresses applied to the cavity during transport, which led to the formation of cracks. This type of performance degradation has previously been observed when tuning Nb\textsubscript{3}Sn cavities at room temperature~\cite{eremeev:srf2019-mop015}, which indicates that both situations are caused by stress induced cracks in the film.
+After testing the performance of the cavity, the cavity was damaged during handling leading to a sharp decrease in the performance. We theorize that the degradation was caused by stresses applied to the cavity during handling, which led to the formation of cracks. This type of performance degradation has previously been observed when tuning Nb\textsubscript{3}Sn cavities at room temperature~\cite{eremeev:srf2019-mop015}, which indicates that both situations are caused by stress induced cracks in the film.
 
 To heal the damage caused to the cavity, we apply a recoating procedure. For the recoating procedure, the cavity was heated to \qty{1000}{\degreeCelsius} and exposed to Sn vapor for \qty{1}{\hour}. Sn vapor was provided by \qty{0.85}{\gram} of Sn heated to \qty{1250}{\degreeCelsius}.
 
 \section{Result}
 \label{sec:Results}
 
-The performance of the cavity after the initial coating was stellar, reaching a peak accelerating field of 24~MV/m and maximum Q of \num{2e10} at \qty{4}{\kelvin}. After the cavity was damaged the performance was severly degraded. The cavity only reached \qty{8}{\mega\volt\per\meter} and a slight decrease in quality factor.
+After the initial coating the cavity reached a peak accelerating field of 24~MV/m and maximum Q of \num{2e10} at \qty{4}{\kelvin}. After the cavity was damaged the performance was severly degraded. The cavity only reached \qty{8}{\mega\volt\per\meter}. The cavity shows a strong dip in quality factor around 6 \qty{6}{\mega\volt\per\meter} before quench.
 
 \begin{figure}[h!]%
     \centering%
     \includegraphics[width=1.0\columnwidth]{./figures/VTS.png}%
-    \caption{}%
+    \caption{The quality factor versus the accelerating gradient of the cavity after the initial coating (left), after the degradation (middle), and after the recoating (right).}%
     \label{fig:VTS}%
 \end{figure}
 
-Temperature mapping was used to locate the quench source. A single hot spot on the equator of the cavity was discovered. Visual inspection of the cavity showed no visible defects near the quench location indicating that the defect must be microscopic.
+Temperature mapping was used to locate the quench source causing the performance degradation. A single hot spot on the equator of the cavity was discovered. Visual inspection of the cavity showed no visible defects near the quench location indicating that the defect must be microscopic.
 
 After the recoating was applied the cavity saw a significant increase in performance. The peak accelerating gradient increased to \qty{18}{\mega\volt\per\meter} and the quality factor also increased to \num{3e10} at \qty{4}{\kelvin}. This indicates that the quench causing defect has been repaired. 
 
@@ -69,7 +70,7 @@ Temperature mapping of the cavity after recoating shows
 \begin{figure}[h!]%
     \centering%
     \includegraphics{./figures/TMAP.png}%
-    \caption{}%
+    \caption{Temperature maps of the cavity surface just before quench as measured before (top) and after (bottom) the recoating was applied.}%
     \label{fig:VTS}%
 \end{figure}
 
