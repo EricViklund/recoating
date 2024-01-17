@@ -29,7 +29,7 @@
 \section{Introduction}
 \label{sec:Introduction}
 
-For several decades researchers have been working to implement Nb\textsubscript{3}Sn in superconducting radiofrequency (SRF) cavities. Desirable superconducting properties, such as higher superconducting transition temperature (T\textsubscript{c}) and higher superheating field (H\textsubscript{sh})\cite{liarte2017theoretical, catelani2008temperature, lin2012effect, kubo2020superfluid}, make Nb\textsubscript{3}Sn an attractive material for SRF applications. However, the material properties of Nb\textsubscript{3}Sn make it difficult to work with. The brittleness of the material introduces new challenges to the cavity manufacturing process, which must be deposited as a thin film on a bulk cavity substrate.\cite{posen2017nb3sn, pudasaini2019growth, porter2018update} The thin and brittle nature of the film makes handling and tuning of the cavity difficult due to stresses applied to the cavity. Nb\textsubscript{3}Sn cavity performance is known to degrade severly when excessive stresses are applied to the cavity. This degradation is theorized to be caused by cracks in the brittle Nb\textsubscript{3}Sn film. Cavities that suffer from degradation must be stripped and recoated with a new Nb\textsubscript{3}Sn film, which is a time consuming and expensive process.
+For several decades researchers have been working to implement Nb\textsubscript{3}Sn in superconducting radiofrequency (SRF) cavities. Desirable superconducting properties, such as higher superconducting transition temperature (T\textsubscript{c}) and higher superheating field (H\textsubscript{sh})\cite{liarte2017theoretical, catelani2008temperature, lin2012effect, kubo2020superfluid}, make Nb\textsubscript{3}Sn an attractive material for SRF applications. However, the material properties of Nb\textsubscript{3}Sn make it difficult to work with. The brittleness of the material introduces new challenges to the cavity manufacturing process, which must be deposited as a thin film on a bulk cavity substrate.\cite{posen2017nb3sn, pudasaini2019growth, porter2018update} Nb\textsubscript{3}Sn cavity performance is known to degrade when stresses are applied to the cavity. This degradation is theorized to be caused by cracks in the brittle Nb\textsubscript{3}Sn film. Cavities that suffer from degradation must be stripped and recoated with a new Nb\textsubscript{3}Sn film, which is a time-consuming and expensive process.
 
 In this study we will explore a new procedure to heal Nb\textsubscript{3}Sn cavities that have been degraded. This procedure utilizes a short Nb\textsubscript{3}Sn recoating to heal cracks that have formed in the cavity without the need to remove the original film. Using this procedure, we are able to recover a large portion of the performance of a degraded Nb\textsubscript{3}Sn cavity with just a single furnace treatment.
 
@@ -37,16 +37,14 @@ In this study we will explore a new procedure to heal Nb\textsubscript{3}Sn cavi
 \section{Experiment}
 \label{sec:Experiment}
 
-The cavity was coated using high-temperature nucleation step to create a low roughness Nb\textsubscript{3}Sn film. An in-depth analysis of this cavity coating and initial performance of the cavity was published by Posen et. al.~\cite{posen2021advances}. 
+This study is performed on a Nb\textsubscript{3}Sn coated \qty{1.3}{\giga\hertz} eliptical cavity coated using high-temperature nucleation step to create a low roughness Nb\textsubscript{3}Sn film. An in-depth analysis of this cavity coating and initial performance of the cavity was published by Posen et. al.~\cite{posen2021advances}. 
 
-After testing the performance of the cavity, the cavity was damaged during handling leading to a sharp decrease in the performance. We theorize that the degradation was caused by stresses applied to the cavity during handling, which led to the formation of cracks. This type of performance degradation has previously been observed during assembly of Nb\textsubscript{3}Sn cavities~\cite{eremeev2023preservation}, and when tuning Nb\textsubscript{3}Sn cavities at room temperature~\cite{eremeev:srf2019-mop015}. This indicates that the stresses must be carefully controlled when handling Nb\textsubscript{3}Sn cavities otherwise cracks may form in the Nb\textsubscript{3}Sn film.
+After testing the performance of the cavity, the cavity was damaged during transport leading to a decrease in the performance. We theorize that the degradation was caused by stresses applied to the cavity during transport, which led to the formation of cracks. This type of performance degradation has previously been observed during assembly of Nb\textsubscript{3}Sn cavities~\cite{eremeev2023preservation}, and when tuning Nb\textsubscript{3}Sn cavities at room temperature~\cite{eremeev:srf2019-mop015}. In these cases, stress applied to the cavity was theorized to be the main cause of the degradation. This indicates that the stresses must be carefully controlled when handling Nb\textsubscript{3}Sn cavities otherwise cracks may form in the Nb\textsubscript{3}Sn film.
 
 In an attempt to heal the cracks causing the performance degradation, we apply a recoating procedure. During this recoating procedure, the cavity was heated to \qty{1000}{\degreeCelsius} and exposed to Sn vapor for \qty{1}{\hour}. Sn vapor was provided by \qty{0.85}{\gram} of Sn heated to \qty{1250}{\degreeCelsius}. The theory behind these parameters is that only a small amount of Sn is necessary to fill in any microscopic cracks in the film, and applying too much Sn would cause the film to become too thick. During the coating only a small portion of the Sn evaporated leaving behind a large amount of the initial Sn still in the crucible. 
 
 \section{Result}
 \label{sec:Results}
-
-After the initial coating the cavity reached a peak accelerating field of 24~MV/m and maximum Q of \num{2e10} at \qty{4}{\kelvin}. After the cavity was damaged the performance was degraded. The cavity only reached \qty{8}{\mega\volt\per\meter}. The cavity shows a decrease in quality factor around 6 \qty{6}{\mega\volt\per\meter} before quench.
 
 \begin{figure}[h]%
     \centering%
@@ -62,6 +60,8 @@ After the initial coating the cavity reached a peak accelerating field of 24~MV/
     \label{fig:VTS}%
 \end{figure}
 
+After the initial coating the cavity reached a peak accelerating field of 24~MV/m and maximum Q of \num{2e10} at \qty{4}{\kelvin}. After the cavity was damaged the performance was degraded. The cavity only reached \qty{8}{\mega\volt\per\meter}. The cavity shows a decrease in quality factor around \qty{6}{\mega\volt\per\meter} before quench.
+
 Temperature mapping was used to locate the quench source responsible for the performance degradation. A single hot spot on the equator of the cavity was discovered. Visual inspection of the cavity showed no visible defects near the quench location.
 
 After the recoating was applied the cavity performance increased. The peak accelerating gradient increased to \qty{19}{\mega\volt\per\meter} and the quality factor was \num{1e10} at \qty{4}{\kelvin}.
@@ -70,9 +70,10 @@ Temperature mapping of the cavity after the recoating shows that a similar small
 
 
 
+\section*{Discussion}
+\label{sec:Discussion}
 
-
-
+It is clear that recoating a Nb\textsubscript{3}Sn cavity that has been damaged has a major impact on its performance. However, the mechanism for this change has not been explained. There are two potential mechanisms for the recoating to heal the Nb\textsubscript{3}Sn film. The first mechanism is by filling in the cracks. When the cavity is exposed to Sn, a thin layer of liquid Sn is deposited on the surface which can fill up the cracks. Nb\textsubscript{3}Sn is then formed in the cracks by the diffusion of Nb into the liquid Sn. The diffusion rate of Nb is relatively slow compared to the diffusion of Sn, however if the cracks are very small, less than a few \qty{100}{nm}, the Nb may still have time to diffuse into the crack. The second mechanism to consider is the diffusion of Sn into the Nb substrate via the crack. If the crack penetrates the Nb\textsubscript{3}Sn film, Sn vapor can diffuse into the crack and react with the Nb substrate creating a region of new Nb\textsubscript{3}Sn. This new region acts as a bridge for the electrical currents flowing through the film and prevents current from flowing into the Nb substrate, which has a much higher resistance than Nb\textsubscript{3}Sn. 
 
 
 

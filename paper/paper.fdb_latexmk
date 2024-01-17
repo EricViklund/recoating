@@ -1,15 +1,15 @@
 # Fdb version 3
-["bibtex paper"] 1704748328 "paper.aux" "paper.bbl" "paper" 1704748427
+["bibtex paper"] 1705518682 "paper.aux" "paper.bbl" "paper" 1705518686
   "/usr/share/texlive/texmf-dist/bibtex/bst/base/plain.bst" 1292289607 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
   "bib.bib" 1704485309 12963 579caa93ac869970b58e76aeb7c6519d ""
-  "paper.aux" 1704748426 2173 2294bce6a2e5a070e7267019f20760d0 "pdflatex"
-  "paperNotes.bib" 1704748426 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "paper.aux" 1705518686 2288 b6e98c2b47c956d2dc58e2a9d56a92d4 "pdflatex"
+  "paperNotes.bib" 1705518686 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
   "paper.bbl"
   "paper.blg"
-["pdflatex"] 1704748426 "/home/viklund/Projects/recoating/paper/paper.tex" "paper.pdf" "paper" 1704748427
+["pdflatex"] 1705518686 "/home/viklund/Projects/recoating/paper/paper.tex" "paper.pdf" "paper" 1705518686
   "/etc/texmf/web2c/texmf.cnf" 1698692269 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/viklund/Projects/recoating/paper/paper.tex" 1704748426 8146 1d870d7b8454fb6fccb294967229bab8 ""
+  "/home/viklund/Projects/recoating/paper/paper.tex" 1705518669 9427 7ca07d88baf2c817955f6e3fdb3af83b ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx8.tfm" 1136768653 1332 1fde11373e221473104d6cc5993f046e ""
@@ -78,10 +78,10 @@
   "/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map" 1698692356 4379155 98693266ff65f58d9f98aff394de12d2 ""
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1698692368 2798339 a65b12bc8daa0244588e85e9d5ee81ec ""
   "figures/TMAP.png" 1704482619 37106 df8654af4bce2b32c941a9c8f3687ba8 ""
-  "figures/VTS.png" 1704481059 104488 e12878e814eab33bc3ea49a57b060002 ""
-  "paper.aux" 1704748426 2173 2294bce6a2e5a070e7267019f20760d0 "pdflatex"
-  "paper.bbl" 1704748328 2965 fb6f7274356f1b0455a937cd4d9eb122 "bibtex paper"
-  "paper.tex" 1704748426 8146 1d870d7b8454fb6fccb294967229bab8 ""
+  "figures/VTS.png" 1705517040 148757 db0292202abbc4c832c9d0584a6d5c49 ""
+  "paper.aux" 1705518686 2288 b6e98c2b47c956d2dc58e2a9d56a92d4 "pdflatex"
+  "paper.bbl" 1705518683 2965 fb6f7274356f1b0455a937cd4d9eb122 "bibtex paper"
+  "paper.tex" 1705518669 9427 7ca07d88baf2c817955f6e3fdb3af83b ""
   (generated)
   "paper.aux"
   "paper.log"
