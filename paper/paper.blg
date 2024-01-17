@@ -1,0 +1,52 @@
+This is BibTeX, Version 0.99d (TeX Live 2022/dev/Debian)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: paper.aux
+The style file: plain.bst
+Database file #1: paperNotes.bib
+Database file #2: bib.bib
+Repeated entry---line 42 of file bib.bib
+ : @article{posen2021advances
+ :                           ,
+I'm skipping whatever remains of this entry
+You've used 10 entries,
+            2118 wiz_defined-function locations,
+            564 strings with 6401 characters,
+and the built_in function-call counts, 3990 in all, are:
+= -- 360
+> -- 279
+< -- 2
++ -- 110
+- -- 100
+* -- 341
+:= -- 709
+add.period$ -- 32
+call.type$ -- 10
+change.case$ -- 79
+chr.to.int$ -- 0
+cite$ -- 10
+duplicate$ -- 117
+empty$ -- 247
+format.name$ -- 100
+if$ -- 785
+int.to.chr$ -- 0
+int.to.str$ -- 10
+missing$ -- 10
+newline$ -- 54
+num.names$ -- 20
+pop$ -- 64
+preamble$ -- 1
+purify$ -- 69
+quote$ -- 0
+skip$ -- 83
+stack$ -- 0
+substring$ -- 182
+swap$ -- 19
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 40
+warning$ -- 0
+while$ -- 29
+width$ -- 12
+write$ -- 114
+(There was 1 error message)

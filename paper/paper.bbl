@@ -1,4 +1,17 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
+
+\bibitem{catelani2008temperature}
+G~Catelani and James~P Sethna.
+\newblock Temperature dependence of the superheating field for superconductors
+  in the high-$\kappa$ london limit.
+\newblock {\em Physical Review B}, 78(22):224509, 2008.
+
+\bibitem{eremeev2023preservation}
+Grigory Eremeev, U~Pudasaini, S~Cheban, J~Fischer, D~Forehand, S~Posen, Anthony
+  Reilly, Robert Rimmer, and Brad Tennis.
+\newblock Preservation of the high quality factor and accelerating gradient of
+  nb3sn-coated cavity during pair assembly.
+\newblock {\em arXiv preprint arXiv:2307.10268}, 2023.
 
 \bibitem{eremeev:srf2019-mop015}
 G.V. Eremeev, W.~Crahen, J.~Henry, F.~Marhauser, U.~Pudasaini, and C.E. Reece.
@@ -9,11 +22,49 @@ G.V. Eremeev, W.~Crahen, J.~Henry, F.~Marhauser, U.~Pudasaini, and C.E. Reece.
   2019.
 \newblock https://doi.org/10.18429/JACoW-SRF2019-MOP015.
 
+\bibitem{kubo2020superfluid}
+Takayuki Kubo.
+\newblock Superfluid flow in disordered superconductors with dynes
+  pair-breaking scattering: Depairing current, kinetic inductance, and
+  superheating field.
+\newblock {\em Physical Review Research}, 2(3):033203, 2020.
+
+\bibitem{liarte2017theoretical}
+Danilo~B Liarte, Sam Posen, Mark~K Transtrum, Gianluigi Catelani, Matthias
+  Liepe, and James~P Sethna.
+\newblock Theoretical estimates of maximum fields in superconducting resonant
+  radio frequency cavities: stability theory, disorder, and laminates.
+\newblock {\em Superconductor Science and Technology}, 30(3):033002, 2017.
+
+\bibitem{lin2012effect}
+F~Pei-Jen Lin and Alexander Gurevich.
+\newblock Effect of impurities on the superheating field of type-ii
+  superconductors.
+\newblock {\em Physical Review B}, 85(5):054513, 2012.
+
+\bibitem{porter2018update}
+Ryan Porter, Tomas Arias, Paul Cueva, Jixun Ding, DL~Hall, Matthias Liepe,
+  DA~Muller, Nathan Sitaraman, et~al.
+\newblock Update on nb3sn progress at cornell university.
+\newblock {\em Proc. of IPAC 2018}, 2018.
+
+\bibitem{posen2017nb3sn}
+Sam Posen and Daniel~Leslie Hall.
+\newblock Nb3sn superconducting radiofrequency cavities: fabrication, results,
+  properties, and prospects.
+\newblock {\em Superconductor Science and Technology}, 30(3):033004, 2017.
+
 \bibitem{posen2021advances}
 Sam Posen, Jaeyel Lee, David~N Seidman, Alexander Romanenko, Brad Tennis,
   OS~Melnychuk, and DA~Sergatskov.
 \newblock Advances in nb3sn superconducting radiofrequency cavities towards
   first practical accelerator applications.
 \newblock {\em Superconductor Science and Technology}, 34(2):025007, 2021.
+
+\bibitem{pudasaini2019growth}
+Uttar Pudasaini, Grigory~V Eremeev, Jonathan~W Angle, Jay Tuggle, Charles~E
+  Reece, and Michael~J Kelley.
+\newblock Growth of nb3sn coating in tin vapor-diffusion process.
+\newblock {\em Journal of Vacuum Science \& Technology A}, 37(5), 2019.
 
 \end{thebibliography}
