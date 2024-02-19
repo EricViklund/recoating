@@ -1,10 +1,25 @@
 \begin{thebibliography}{10}
 
+\bibitem{10.1063/1.4913617}
+Chaoyue Becker, Sam Posen, Nickolas Groll, Russell Cook, Christian~M.
+  Schlepütz, Daniel~Leslie Hall, Matthias Liepe, Michael Pellin, John
+  Zasadzinski, and Thomas Proslier.
+\newblock {Analysis of Nb3Sn surface layers for superconducting radio frequency
+  cavity applications}.
+\newblock {\em Applied Physics Letters}, 106(8):082602, 02 2015.
+
 \bibitem{catelani2008temperature}
 G~Catelani and James~P Sethna.
 \newblock Temperature dependence of the superheating field for superconductors
   in the high-$\kappa$ london limit.
 \newblock {\em Physical Review B}, 78(22):224509, 2008.
+
+\bibitem{10.1063/5.0063379}
+A.~Dangwal~Pandey, T.~F. Keller, M.~Wenskat, A.~Jeromin, S.~Kulkarni, H.~Noei,
+  V.~Vonk, W.~Hillert, D.~Reschke, N.~Walker, H.~Weise, and A.~Stierle.
+\newblock {Grain boundary segregation and carbide precipitation in heat treated
+  niobium superconducting radio frequency cavities}.
+\newblock {\em Applied Physics Letters}, 119(19):194102, 11 2021.
 
 \bibitem{eremeev2023preservation}
 Grigory Eremeev, U~Pudasaini, S~Cheban, J~Fischer, D~Forehand, S~Posen, Anthony
@@ -29,6 +44,13 @@ Takayuki Kubo.
   superheating field.
 \newblock {\em Physical Review Research}, 2(3):033203, 2020.
 
+\bibitem{10.1063/5.0059464}
+E.~M. Lechner, J.~W. Angle, F.~A. Stevie, M.~J. Kelley, C.~E. Reece, and A.~D.
+  Palczewski.
+\newblock {RF surface resistance tuning of superconducting niobium via thermal
+  diffusion of native oxide}.
+\newblock {\em Applied Physics Letters}, 119(8):082601, 08 2021.
+
 \bibitem{liarte2017theoretical}
 Danilo~B Liarte, Sam Posen, Mark~K Transtrum, Gianluigi Catelani, Matthias
   Liepe, and James~P Sethna.
@@ -42,11 +64,24 @@ F~Pei-Jen Lin and Alexander Gurevich.
   superconductors.
 \newblock {\em Physical Review B}, 85(5):054513, 2012.
 
+\bibitem{10.1063/1.4960801}
+M.~Martinello, A.~Grassellino, M.~Checchin, A.~Romanenko, O.~Melnychuk, D.~A.
+  Sergatskov, S.~Posen, and J.~F. Zasadzinski.
+\newblock {Effect of interstitial impurities on the field dependent microwave
+  surface resistance of niobium}.
+\newblock {\em Applied Physics Letters}, 109(6):062601, 08 2016.
+
 \bibitem{porter2018update}
 Ryan Porter, Tomas Arias, Paul Cueva, Jixun Ding, DL~Hall, Matthias Liepe,
   DA~Muller, Nathan Sitaraman, et~al.
 \newblock Update on nb3sn progress at cornell university.
 \newblock {\em Proc. of IPAC 2018}, 2018.
+
+\bibitem{10.1063/1.4913247}
+S.~Posen, M.~Liepe, and D.~L. Hall.
+\newblock {Proof-of-principle demonstration of Nb3Sn superconducting
+  radiofrequency cavities for high Q applications}.
+\newblock {\em Applied Physics Letters}, 106(8):082601, 02 2015.
 
 \bibitem{posen2017nb3sn}
 Sam Posen and Daniel~Leslie Hall.
@@ -66,5 +101,17 @@ Uttar Pudasaini, Grigory~V Eremeev, Jonathan~W Angle, Jay Tuggle, Charles~E
   Reece, and Michael~J Kelley.
 \newblock Growth of nb3sn coating in tin vapor-diffusion process.
 \newblock {\em Journal of Vacuum Science \& Technology A}, 37(5), 2019.
+
+\bibitem{10.1063/1.4866013}
+A.~Romanenko, A.~Grassellino, F.~Barkov, A.~Suter, Z.~Salman, and T.~Prokscha.
+\newblock {Strong Meissner screening change in superconducting radio frequency
+  cavities due to mild baking}.
+\newblock {\em Applied Physics Letters}, 104(7):072601, 02 2014.
+
+\bibitem{viklund2024improving}
+Eric Viklund, David~N Seidman, David Burk, and Sam Posen.
+\newblock Improving nb3sn cavity performance using centrifugal barrel
+  polishing.
+\newblock {\em Superconductor Science and Technology}, 37(2):025009, 2024.
 
 \end{thebibliography}
