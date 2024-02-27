@@ -1,15 +1,15 @@
 # Fdb version 3
-["bibtex paper"] 1708987738 "paper.aux" "paper.bbl" "paper" 1708987741
+["bibtex paper"] 1709069129 "paper.aux" "paper.bbl" "paper" 1709069132
   "/usr/share/texlive/texmf-dist/bibtex/bst/base/plain.bst" 1292289607 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
   "bib.bib" 1708373743 23501 83988ddad57b7b43636b1010847a0485 ""
-  "paper.aux" 1708987741 3145 63b39c5f56370b35b313ea8ba19604d5 "pdflatex"
-  "paperNotes.bib" 1708987741 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
+  "paper.aux" 1709069132 3235 a96eccce78b32aef4be29da3e2fd769a "pdflatex"
+  "paperNotes.bib" 1709069132 0 d41d8cd98f00b204e9800998ecf8427e "pdflatex"
   (generated)
   "paper.bbl"
   "paper.blg"
-["pdflatex"] 1708987740 "/home/viklund/Projects/recoating/paper/paper.tex" "paper.pdf" "paper" 1708987741
+["pdflatex"] 1709069131 "/home/viklund/Projects/recoating/paper/paper.tex" "paper.pdf" "paper" 1709069132
   "/etc/texmf/web2c/texmf.cnf" 1698692269 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/home/viklund/Projects/recoating/paper/paper.tex" 1708987736 11095 37b7c82f4c14b8567c23d1c62c825897 ""
+  "/home/viklund/Projects/recoating/paper/paper.tex" 1709069127 11488 95f4fddf4bc4c6478abeffa68af8daa4 ""
   "/usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1136768653 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "/usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx8.tfm" 1136768653 1332 1fde11373e221473104d6cc5993f046e ""
@@ -79,9 +79,9 @@
   "/var/lib/texmf/web2c/pdftex/pdflatex.fmt" 1698692368 2798339 a65b12bc8daa0244588e85e9d5ee81ec ""
   "figures/TMAP.png" 1708987182 189777 650cbcb5a7c056ac494454efecc328a7 ""
   "figures/VTS.png" 1708987182 155503 3a5ced630b64e86d96a433b7d75085fc ""
-  "paper.aux" 1708987741 3145 63b39c5f56370b35b313ea8ba19604d5 "pdflatex"
-  "paper.bbl" 1708987738 5129 d12f1aaa5094d2c94849ce5446cb3c57 "bibtex paper"
-  "paper.tex" 1708987736 11095 37b7c82f4c14b8567c23d1c62c825897 ""
+  "paper.aux" 1709069132 3235 a96eccce78b32aef4be29da3e2fd769a "pdflatex"
+  "paper.bbl" 1709069129 5129 d12f1aaa5094d2c94849ce5446cb3c57 "bibtex paper"
+  "paper.tex" 1709069127 11488 95f4fddf4bc4c6478abeffa68af8daa4 ""
   (generated)
   "paper.aux"
   "paper.log"
