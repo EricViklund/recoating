@@ -96,6 +96,11 @@ INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx8.tfm
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmti9.tfm
+INPUT ./content.tex
+INPUT ./content.tex
+INPUT ./content.tex
+INPUT ./content.tex
+INPUT content.tex
 INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx9.tfm
 OUTPUT paper.pdf
 INPUT c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map
