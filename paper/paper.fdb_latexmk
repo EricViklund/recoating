@@ -1,17 +1,18 @@
 # Fdb version 4
-["bibtex paper"] 1716951242.43877 "paper.aux" "paper.bbl" "paper" 1717003313.96885 0
+["bibtex paper"] 1718921155.55915 "paper.aux" "paper.bbl" "paper" 1718926337.115 0
   "./bib.bib" 1716948309 24835 677540b88cde700f70197db257df18ec ""
-  "./paperNotes.bib" 1717003310 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "./paperNotes.bib" 1718926332 0 d41d8cd98f00b204e9800998ecf8427e ""
   "c:/texlive/2024/texmf-dist/bibtex/bst/base/plain.bst" 1713894916 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "paper.aux" 1717003312 3835 816ec8eb62b0f48b6e6b98e1ed0ef8fc "pdflatex"
+  "paper.aux" 1718926335 4657 a41be1cb8d886ece5120075892696560 "pdflatex"
   (generated)
   "paper.bbl"
   "paper.blg"
   (rewritten before read)
-["pdflatex"] 1717003309.67929 "c:/Users/viklund/Projects/recoating/paper/paper.tex" "paper.pdf" "paper" 1717003313.9701 0
+["pdflatex"] 1718926332.0363 "c:/Users/viklund/Projects/recoating/paper/paper.tex" "paper.pdf" "paper" 1718926337.11588 0
   "c:/Users/viklund/Projects/recoating/paper/paper.tex" 1717003308 1937 90519368a13d0476f7b240405fbd6519 ""
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1713896651 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1713895371 1324 c910af8c371558dc20f2d7822f66fe64 ""
+  "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx6.tfm" 1713895371 1344 8a0be4fe4d376203000810ad4dc81558 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx8.tfm" 1713895371 1332 1fde11373e221473104d6cc5993f046e ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx9.tfm" 1713895371 1328 5442e22a7072966dbaf88ca900acf3f0 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1713895371 1524 4414a8315f39513458b80dfc63bff03a ""
@@ -28,6 +29,7 @@
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmsy9.tfm" 1713895371 1116 25a7bf822c58caf309a702ef79f4afbb ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmti9.tfm" 1713895371 1476 cccc6cc4935c18ec3d5623b77ecb8b74 ""
   "c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1713894289 32080 340ef9bf63678554ee606688e7b5339d ""
+  "c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx6.pfb" 1713894289 32378 2b20eba6bb36c716382b6d96240eaa69 ""
   "c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb" 1713894289 32166 b0c356b15f19587482a9217ce1d8fa67 ""
   "c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb" 1713894289 32298 c6d25bb16d1eac01ebdc6d7084126a1e ""
   "c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb" 1713894289 36299 5f9df58c2139e7edcf37c8fca4bd384d ""
@@ -76,15 +78,13 @@
   "c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1713902407 5519690 1698f96789543a09b6b0e33aada59581 ""
   "c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1713902628 8222494 4b4eea5d1e9bdbb4103dc63d914462cd ""
   "c:/texlive/2024/texmf.cnf" 1713902381 713 e69b156964470283e0530f5060668171 ""
-  "content.tex" 1717003279 11095 14e2d143adaef606ed9b53f4c9d6deb6 ""
-  "figures/EDS/image (1).png" 1716949434 104404 9c7d95d6e09f7cde25e318b27f2f2537 ""
-  "figures/EDS/image.png" 1716949432 380890 7ca1bcb25b59bacd4d3789b316da275b ""
-  "figures/SEM/1.jpg" 1716949342 1566417 aaa54070f0ce0a5f3969ce6b1ca340b5 ""
-  "figures/SEM/2.jpg" 1716949375 2143355 622dc44a19ec3037621e8fd562bf5cda ""
+  "content.tex" 1718926331 15808 734dab01a78e8c08937e7d350c6f9c15 ""
+  "figures/EDS/EDS.png" 1718409237 805532 cc7ef2f44c1d306037b65017e7b25cf6 ""
+  "figures/SEM/SEM.png" 1718920066 10123722 19d0ead449ac74620d14e9304764a5b4 ""
   "figures/TMAP.png" 1713557691 189777 402d22bcba0d506fcee9f2305743d1e3 ""
   "figures/VTS.png" 1713557918 155475 81a6373cc57f896d8c52d1609a7dc424 ""
-  "paper.aux" 1717003312 3835 816ec8eb62b0f48b6e6b98e1ed0ef8fc "pdflatex"
-  "paper.bbl" 1716951242 5234 cfd3cb495862ed935882efc5ddb1daa0 "bibtex paper"
+  "paper.aux" 1718926335 4657 a41be1cb8d886ece5120075892696560 "pdflatex"
+  "paper.bbl" 1718921156 5234 cfd3cb495862ed935882efc5ddb1daa0 "bibtex paper"
   "paper.tex" 1717003308 1937 90519368a13d0476f7b240405fbd6519 ""
   (generated)
   "paper.aux"

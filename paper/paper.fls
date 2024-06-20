@@ -114,31 +114,23 @@ INPUT ./figures/TMAP.png
 INPUT ./figures/TMAP.png
 INPUT ./figures/TMAP.png
 INPUT ./figures/TMAP.png
-INPUT ./figures/SEM/1.jpg
-INPUT ./figures/SEM/1.jpg
-INPUT ./figures/SEM/1.jpg
-INPUT ./figures/SEM/1.jpg
-INPUT ./figures/SEM/1.jpg
-INPUT ./figures/SEM/2.jpg
-INPUT ./figures/SEM/2.jpg
-INPUT ./figures/SEM/2.jpg
-INPUT ./figures/SEM/2.jpg
-INPUT ./figures/SEM/2.jpg
-INPUT ./figures/EDS/image.png
-INPUT ./figures/EDS/image.png
-INPUT ./figures/EDS/image.png
-INPUT ./figures/EDS/image.png
-INPUT ./figures/EDS/image.png
-INPUT ./figures/EDS/image (1).png
-INPUT ./figures/EDS/image (1).png
-INPUT ./figures/EDS/image (1).png
-INPUT ./figures/EDS/image (1).png
-INPUT ./figures/EDS/image (1).png
+INPUT c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx6.tfm
+INPUT ./figures/SEM/SEM.png
+INPUT ./figures/SEM/SEM.png
+INPUT ./figures/SEM/SEM.png
+INPUT ./figures/SEM/SEM.png
+INPUT ./figures/SEM/SEM.png
+INPUT ./figures/EDS/EDS.png
+INPUT ./figures/EDS/EDS.png
+INPUT ./figures/EDS/EDS.png
+INPUT ./figures/EDS/EDS.png
+INPUT ./figures/EDS/EDS.png
 INPUT ./paper.bbl
 INPUT ./paper.bbl
 INPUT paper.bbl
 INPUT paper.aux
 INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx6.pfb
 INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb
 INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb
 INPUT c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
