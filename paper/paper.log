@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.23)  20 JUN 2024 18:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2024) (preloaded format=pdflatex 2024.4.23)  23 JUN 2024 15:04
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -180,11 +180,11 @@ File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
 \Gin@req@height=\dimen148
 \Gin@req@width=\dimen149
 )
-Class revtex4-2 Info: Unrecognized array package. Please update this document class! (Proceeding with fingers crossed.) on input line 5.
-Class revtex4-2 Info: cite was not loaded (OK!) on input line 5.
-Class revtex4-2 Info: mcite was not loaded (OK!) on input line 5.
-Class revtex4-2 Info: multicol was not loaded (OK!) on input line 5.
-Package translations Info: No language package found. I am going to use `english' as default language. on input line 5.
+Class revtex4-2 Info: Unrecognized array package. Please update this document class! (Proceeding with fingers crossed.) on input line 6.
+Class revtex4-2 Info: cite was not loaded (OK!) on input line 6.
+Class revtex4-2 Info: mcite was not loaded (OK!) on input line 6.
+Class revtex4-2 Info: multicol was not loaded (OK!) on input line 6.
+Package translations Info: No language package found. I am going to use `english' as default language. on input line 6.
  (c:/texlive/2024/texmf-dist/tex/latex/graphics/color.sty
 Package: color 2022/01/06 v1.3d Standard LaTeX Color (DPC)
  (c:/texlive/2024/texmf-dist/tex/latex/graphics-cfg/color.cfg
@@ -198,24 +198,24 @@ File: l3backend-pdftex.def 2024-03-14 L3 backend support: PDF output (pdfTeX)
 ) (./paper.aux)
 \openout1 = `paper.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 5.
-LaTeX Font Info:    ... okay on input line 5.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
+LaTeX Font Info:    ... okay on input line 6.
  (c:/texlive/2024/texmf-dist/tex/latex/translations/translations-basic-dictionary-english.trsl
 File: translations-basic-dictionary-english.trsl (english translation file `translations-basic-dictionary')
 )
-Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 5.
+Package translations Info: loading dictionary `translations-basic-dictionary' for `english'. on input line 6.
  (c:/texlive/2024/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count286
@@ -238,17 +238,17 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 \openout3 = `paperNotes.bib'.
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 27.
+(Font)              <9> on input line 28.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 27.
+(Font)              <6> on input line 28.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 27.
+(Font)              <5> on input line 28.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <12> on input line 31.
+(Font)              <12> on input line 32.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 31.
+(Font)              <8> on input line 32.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 31.
+(Font)              <7> on input line 32.
  (./content.tex [1{c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
 <./figures/VTS.png, id=18, 734.0223pt x 170.5572pt>
 File: ./figures/VTS.png Graphic file (type png)
@@ -265,15 +265,15 @@ Package pdftex.def Info: ./figures/TMAP.png  used on input line 34.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [2 <./figures/VTS.png>] [3 <./figures/TMAP.png>]
-<./figures/SEM/SEM.png, id=31, 369.7815pt x 455.18056pt>
+<./figures/SEM/SEM.png, id=31, 489.2679pt x 341.3553pt>
 File: ./figures/SEM/SEM.png Graphic file (type png)
 <use ./figures/SEM/SEM.png>
-Package pdftex.def Info: ./figures/SEM/SEM.png  used on input line 51.
-(pdftex.def)             Requested size: 369.78058pt x 455.17943pt.
+Package pdftex.def Info: ./figures/SEM/SEM.png  used on input line 53.
+(pdftex.def)             Requested size: 489.2667pt x 341.35445pt.
 <./figures/EDS/EDS.png, id=32, 462.528pt x 346.896pt>
 File: ./figures/EDS/EDS.png Graphic file (type png)
 <use ./figures/EDS/EDS.png>
-Package pdftex.def Info: ./figures/EDS/EDS.png  used on input line 58.
+Package pdftex.def Info: ./figures/EDS/EDS.png  used on input line 60.
 (pdftex.def)             Requested size: 462.52686pt x 346.89514pt.
  [4 <./figures/SEM/SEM.png>] [5 <./figures/EDS/EDS.png>]) (./paper.bbl [6]) [7] (./paper.aux)
  ***********
@@ -282,15 +282,15 @@ L3 programming layer <2024-03-14>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 7998 strings out of 474103
- 180776 string characters out of 5747481
- 1949496 words of memory out of 5000000
- 30327 multiletter control sequences out of 15000+600000
+ 7999 strings out of 474103
+ 180786 string characters out of 5747481
+ 1951496 words of memory out of 5000000
+ 30328 multiletter control sequences out of 15000+600000
  563298 words of font info for 53 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 73i,6n,80p,1638b,815s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 73i,6n,80p,1441b,815s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx6.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2024/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9.pfb>
-Output written on paper.pdf (7 pages, 11728039 bytes).
+Output written on paper.pdf (7 pages, 11514463 bytes).
 PDF statistics:
  112 PDF objects out of 1000 (max. 8388607)
  64 compressed objects within 1 object stream

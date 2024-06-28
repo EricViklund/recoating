@@ -1,15 +1,15 @@
 # Fdb version 4
-["bibtex paper"] 1718921155.55915 "paper.aux" "paper.bbl" "paper" 1718926337.115 0
+["bibtex paper"] 1719172329.56859 "paper.aux" "paper.bbl" "paper" 1719173074.59722 0
   "./bib.bib" 1716948309 24835 677540b88cde700f70197db257df18ec ""
-  "./paperNotes.bib" 1718926332 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "c:/texlive/2024/texmf-dist/bibtex/bst/base/plain.bst" 1713894916 20613 bd3fbfa9f64872b81ac57a0dd2ed855f ""
-  "paper.aux" 1718926335 4657 a41be1cb8d886ece5120075892696560 "pdflatex"
+  "./paperNotes.bib" 1719173070 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "c:/texlive/2024/texmf-dist/bibtex/bst/base/ieeetr.bst" 1713894916 18361 1a00e58565e7f19bf2b3e1bfb82254ae ""
+  "paper.aux" 1719173073 4773 897b1433907ddc5e27710b32025e7f91 "pdflatex"
   (generated)
   "paper.bbl"
   "paper.blg"
   (rewritten before read)
-["pdflatex"] 1718926332.0363 "c:/Users/viklund/Projects/recoating/paper/paper.tex" "paper.pdf" "paper" 1718926337.11588 0
-  "c:/Users/viklund/Projects/recoating/paper/paper.tex" 1717003308 1937 90519368a13d0476f7b240405fbd6519 ""
+["pdflatex"] 1719173069.68895 "c:/Users/viklund/Projects/recoating/paper/paper.tex" "paper.pdf" "paper" 1719173074.59823 0
+  "c:/Users/viklund/Projects/recoating/paper/paper.tex" 1719172318 1940 16fba564fe6c95bb1c8d0a3efa64fcb3 ""
   "c:/texlive/2024/texmf-dist/fonts/map/fontname/texfonts.map" 1713896651 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm" 1713895371 1324 c910af8c371558dc20f2d7822f66fe64 ""
   "c:/texlive/2024/texmf-dist/fonts/tfm/public/cm/cmbx6.tfm" 1713895371 1344 8a0be4fe4d376203000810ad4dc81558 ""
@@ -78,14 +78,14 @@
   "c:/texlive/2024/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1713902407 5519690 1698f96789543a09b6b0e33aada59581 ""
   "c:/texlive/2024/texmf-var/web2c/pdftex/pdflatex.fmt" 1713902628 8222494 4b4eea5d1e9bdbb4103dc63d914462cd ""
   "c:/texlive/2024/texmf.cnf" 1713902381 713 e69b156964470283e0530f5060668171 ""
-  "content.tex" 1718926331 15808 734dab01a78e8c08937e7d350c6f9c15 ""
+  "content.tex" 1719173069 17337 26463b070f77de1ad70c91206ce45753 ""
   "figures/EDS/EDS.png" 1718409237 805532 cc7ef2f44c1d306037b65017e7b25cf6 ""
-  "figures/SEM/SEM.png" 1718920066 10123722 19d0ead449ac74620d14e9304764a5b4 ""
-  "figures/TMAP.png" 1713557691 189777 402d22bcba0d506fcee9f2305743d1e3 ""
-  "figures/VTS.png" 1713557918 155475 81a6373cc57f896d8c52d1609a7dc424 ""
-  "paper.aux" 1718926335 4657 a41be1cb8d886ece5120075892696560 "pdflatex"
-  "paper.bbl" 1718921156 5234 cfd3cb495862ed935882efc5ddb1daa0 "bibtex paper"
-  "paper.tex" 1717003308 1937 90519368a13d0476f7b240405fbd6519 ""
+  "figures/SEM/SEM.png" 1719099286 9899688 bae360f4d6be529b55ac2c8215a0985f ""
+  "figures/TMAP.png" 1719109555 189777 402d22bcba0d506fcee9f2305743d1e3 ""
+  "figures/VTS.png" 1719110027 175534 72f4cd515fdfb8e974937ae654690ef7 ""
+  "paper.aux" 1719173073 4773 897b1433907ddc5e27710b32025e7f91 "pdflatex"
+  "paper.bbl" 1719172329 4913 f173c629df192eef7f76caf374e83f79 "bibtex paper"
+  "paper.tex" 1719172318 1940 16fba564fe6c95bb1c8d0a3efa64fcb3 ""
   (generated)
   "paper.aux"
   "paper.log"

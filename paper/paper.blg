@@ -1,49 +1,49 @@
 This is BibTeX, Version 0.99d (TeX Live 2024)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: paper.aux
-The style file: plain.bst
+The style file: ieeetr.bst
 Database file #1: paperNotes.bib
 Database file #2: bib.bib
 Warning--can't use both author and editor fields in Sloof2007
 You've used 18 entries,
-            2118 wiz_defined-function locations,
-            616 strings with 8357 characters,
-and the built_in function-call counts, 7676 in all, are:
-= -- 684
-> -- 552
-< -- 3
-+ -- 218
-- -- 200
-* -- 691
-:= -- 1346
-add.period$ -- 56
+            1876 wiz_defined-function locations,
+            595 strings with 7833 characters,
+and the built_in function-call counts, 5747 in all, are:
+= -- 535
+> -- 334
+< -- 0
++ -- 118
+- -- 100
+* -- 414
+:= -- 827
+add.period$ -- 20
 call.type$ -- 18
-change.case$ -- 152
+change.case$ -- 17
 chr.to.int$ -- 0
 cite$ -- 19
-duplicate$ -- 216
-empty$ -- 467
-format.name$ -- 200
-if$ -- 1505
+duplicate$ -- 330
+empty$ -- 422
+format.name$ -- 100
+if$ -- 1403
 int.to.chr$ -- 0
 int.to.str$ -- 18
 missing$ -- 19
-newline$ -- 94
-num.names$ -- 36
-pop$ -- 127
+newline$ -- 59
+num.names$ -- 18
+pop$ -- 44
 preamble$ -- 1
-purify$ -- 135
+purify$ -- 0
 quote$ -- 0
-skip$ -- 150
+skip$ -- 284
 stack$ -- 0
-substring$ -- 380
-swap$ -- 37
-text.length$ -- 3
+substring$ -- 212
+swap$ -- 189
+text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 70
+type$ -- 0
 warning$ -- 1
-while$ -- 55
+while$ -- 37
 width$ -- 20
-write$ -- 203
+write$ -- 188
 (There was 1 warning)
